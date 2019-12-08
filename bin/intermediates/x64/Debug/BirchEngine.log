@@ -1,8 +1,0 @@
-﻿D:\Program Files (x86)\Microsoft\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (C:\Dev\OperationTundra\bin\intermediates\x64\Debug\) contains files shared from another project (BirchEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Game.cpp
-  GameObject.cpp
-  main.cpp
-  Map.cpp
-  TextureManager.cpp
-  Generating Code...
-  BirchEngine.vcxproj -> C:\Dev\OperationTundra\bin\x64\Debug\OperationTundra.exe
