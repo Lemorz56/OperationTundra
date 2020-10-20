@@ -35,7 +35,6 @@ public:
 	{
 		destRect.x = transform->x();
 		destRect.y = transform->y();
-		//https://youtu.be/ESNN57ofa3w?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&t=184
 	}
 
 	void draw() override
