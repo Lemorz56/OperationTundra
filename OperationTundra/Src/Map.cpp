@@ -84,6 +84,3 @@ void Map::DrawMap()
 		}
 	}
 }
-
-
-//https://youtu.be/1eaxE_waDNc?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&t=1650
